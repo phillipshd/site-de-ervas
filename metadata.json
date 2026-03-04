@@ -1,0 +1,5 @@
+{
+  "name": "Squishy Card Integration",
+  "description": "A demonstration of a squishy card component integrated into a shadcn-like project structure with Tailwind CSS and Framer Motion.",
+  "requestFramePermissions": []
+}
