@@ -129,7 +129,7 @@ const CountdownTimer = () => {
 // Updated CTA Button using HoverButton as requested
 const CTAButton = ({ children, className = "" }: { children: React.ReactNode, className?: string }) => (
   <a 
-    href="https://pay.hotmart.com/P104628529B" 
+    href="https://pay.hotmart.com/N105061135M" 
     target="_blank" 
     rel="noopener noreferrer"
     className="block w-full"
